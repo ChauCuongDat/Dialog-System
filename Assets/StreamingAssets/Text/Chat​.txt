@@ -1,0 +1,12 @@
+/char1
+Hi
+/char2
+Sorry but who are you?
+/char1
+Just say hi, i don't want to hear shit like "Why are you here", "How do you get in here"
+/char1
+Be polite
+/char2
+I'm calling the Police
+/char1
+*run
